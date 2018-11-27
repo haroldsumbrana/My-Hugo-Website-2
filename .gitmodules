@@ -1,0 +1,3 @@
+[submodule "themes/theme-meghana"]
+	path = themes/theme-meghana
+	url = https://github.com/themefisher/meghna-hugo.git
