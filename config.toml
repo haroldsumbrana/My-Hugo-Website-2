@@ -1,8 +1,9 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Meghna | Responsive Multipurpose Parallax HTML5 Template"
-theme = "theme-meghna"
+title = "My Example Hugo Parallax HTML5 Template"
+theme = "theme-meghana"
 themesDir = "themes"
+publishDir = "docs"
 
 # Menu
 [menu]
